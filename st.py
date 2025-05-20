@@ -1,7 +1,6 @@
 import streamlit as st
 import datetime
 from PIL import Image
-import plotly.express as px
 import pandas as pd
 
 # 페이지 설정
